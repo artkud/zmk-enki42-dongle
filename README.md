@@ -25,3 +25,4 @@ Before flashing this firmware, flash the setting reset firmware into all 3 contr
 * [@benvallack](https://github.com/benvallack/zmk-config-card) card keyboard config as a reference 
 
 * [@krikun98](https://github.com/krikun98/) for config fixes and other help
+I just cloned to ge the actions.
